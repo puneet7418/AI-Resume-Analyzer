@@ -1,0 +1,26 @@
+Job Title: Junior Data Analyst
+Company: TechCorp India, Noida
+
+About the Role:
+We are looking for a Junior Data Analyst to join our growing analytics team.
+You will work with cross-functional teams to turn raw data into actionable insights.
+
+Responsibilities:
+- Write complex SQL queries to extract and analyze large datasets
+- Build and maintain dashboards in Power BI and Tableau
+- Conduct A/B testing and statistical analysis to support product decisions
+- Prepare ad hoc reports for stakeholders
+- Automate reporting workflows using Python
+
+Requirements:
+- Proficiency in SQL (mandatory)
+- Python (Pandas, NumPy)
+- Experience with Power BI or Tableau
+- Strong data visualization and storytelling skills
+- Familiarity with Excel and pivot tables
+- Good communication skills
+
+Nice to Have:
+- Experience with cloud platforms (AWS, GCP)
+- Knowledge of dbt or BigQuery
+- Exposure to machine learning concepts
