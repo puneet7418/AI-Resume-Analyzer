@@ -1,0 +1,28 @@
+Karan Kapoor
+Delhi, India | karan@email.com | github.com/KaranKapoor404 | linkedin.com/in/karankapoor
+
+EDUCATION
+B.Sc. (Hons) Cyber Security — Birmingham City University, UK | 2:1 | 2020–2023
+
+SKILLS
+Languages:  Python, SQL
+Libraries:  Pandas, NumPy, Scikit-learn
+Tools:      Power BI, Tableau, AWS, Git, OpenAI API, LangChain
+Concepts:   Machine Learning, Prompt Engineering, RAG, Data Visualization
+
+PROJECTS
+
+AI Resume Analyzer | Python, OpenAI GPT-4, RAG, Prompt Engineering
+- Built a GPT-4 powered application to analyze resumes against job descriptions
+- Implemented RAG pipeline injecting role-specific hiring criteria into prompts
+- Designed a modular prompt engineering framework supporting 4 role types
+- Reduced manual review time by structuring outputs as parseable JSON-style text
+
+Spam Mail Detection Model | Python, Scikit-learn, Naive Bayes
+- Trained a Naive Bayes classifier achieving 98.6% accuracy on 5,500+ emails
+- Applied TF-IDF vectorization and feature engineering for text preprocessing
+- Deployed model with a simple CLI interface for batch email classification
+
+CERTIFICATIONS
+IBM Data Analyst Professional Certificate — Coursera, 2024
+EC-Council Certified Ethical Hacker (CEH) — 2023
